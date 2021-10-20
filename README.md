@@ -2,7 +2,7 @@
 
 * This Note-Taker app will take in text information into the note area and title sections, and can be saved, as well as deleted.
 
-* I used Express.js to write the code for the back-end to be able to connect to the front-end and send and retrieve date from the database.
+* I used Express.js to write the code for the back-end to be able to connect to the front-end and send and retrieve data from the database.
 
 ---
 
